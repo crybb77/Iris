@@ -1,6 +1,6 @@
 # Iris
 Iris flower predictor
-![Iris Flower](Iris Flowers.png)
+![Iris Flower](assets/Iris Flowers.png)
 
 # Simple Iris Flower Prediction App
 
