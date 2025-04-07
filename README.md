@@ -34,7 +34,7 @@ The application is deployed on a public platform for easy access. Please refer t
 
 ## Live App
 
-[https://nine-actors-go.loca.lt] 
+[https://irisflowerpredictor.streamlit.app/] 
 
 ## Author
 
