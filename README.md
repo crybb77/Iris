@@ -1,6 +1,6 @@
 # Iris
 Iris flower predictor
-![Iris Flower](Iris Flowers.png)
+![Iris Flower](Iris%20Flowers.png)
 
 # Simple Iris Flower Prediction App
 
